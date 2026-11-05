@@ -170,7 +170,7 @@ Day 2 documented an ID, an employment status and an expiry date for EventLab can
 
 ## Reflection
 
-I used to rely solely on the screen or a spec sheet. That changed when I opened the Network tab. What jumped out? [EDIT: e.g., one page fired so many requests / the same employee ID sat at a different path in every response]. The `reports_to` field was the real catch. It used both `null` and `""`. On Day 2, I could only guess at this from the documentation. Now, I can actually count it. As a BA, I’m changing my workflow. [EDIT: e.g., check the real request before writing a field spec, so I use the field names developers will see].
+I used to rely solely on the screen or a spec sheet. That changed when I opened the Network tab. What jumped out? e.g. one page fired so many requests / the same employee ID sat at a different path in every response. The `reports_to` field was the real catch. It used both `null` and `""`. On Day 2, I could only guess at this from the documentation. Now, I can actually count it. As a BA, I’m changing my workflow e.g. check the real request before writing a field spec, so I use the field names developers will see.
 
 ## AI use
 

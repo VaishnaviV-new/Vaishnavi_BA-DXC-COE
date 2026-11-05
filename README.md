@@ -6,6 +6,7 @@
 ## BA-DXC
 - [Day 1 — BA craftsmanship & Incubyte](BA-DXC/day1/Day_1_BA_Craftsmanship_Incubyte.md)
 - [Day 2 — Discovery: Exploring an Unfamiliar Web Portal](BA-DXC/day2/day-02-discovery-unfamiliar-portal.md)
+- [Day 3 — Web Application Fluency: Reading What a Page Actually Does](BA-DXC/day3/day-03-web-application-fluency.md)
 
 ## QA Manual to Automation
-- (add days here as you complete them)
+- [Day 1 — QA Automation Fundamentals & Path Selection](<QAManual to Automation/day1/day-01-qa-automation-fundamentals.md>)

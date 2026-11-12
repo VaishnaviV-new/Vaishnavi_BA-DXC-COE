@@ -12,3 +12,4 @@
 
 ## QA Manual to Automation
 - [Day 1 — QA Automation Fundamentals & Path Selection](<QAManual to Automation/day1/day-01-qa-automation-fundamentals.md>)
+- [Day 2 — Git & Version Control for QA](<QAManual to Automation/day2/day-02-git-version-control.md>)
